@@ -1,0 +1,40 @@
+
+
+.afrobkgrd {
+	background-image:url("../images/img_woman-with-afro-silhouette-13.jpg");
+	background-repeat:no-repeat;
+	height:700px;
+}
+
+#guessedLetters {
+	font-family: 'Chicle', cursive;
+	margin-left: 71px;
+    margin-top: 154px;
+    color: #fff;
+    font-size: 51px;
+}
+
+#wrongLetters {
+	font-family: 'Chicle', cursive;
+    margin-left: 71px;
+    color: #fff;
+    font-size: 51px;
+}
+
+.mytext {
+    height: 50px;
+    margin-left:56px;
+}
+
+.btn {
+	color:black;
+	font-weight:bolder;
+}
+
+.move {
+	margin-left:56px;
+}
+
+.btn-success {
+	margin-left:56px;
+}
